@@ -11,7 +11,7 @@ Um jogo estilo Super Trunfo em linguagem C, onde duas cartas de estados brasilei
 ## 🛠️ Como rodar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/SuperTrunfoC.git
+   git clone https://github.com/seuusuario/SuperTrunfoC.git](https://github.com/slua0016/Desafio-Cartas-Super-Trunfo.git
    cd SuperTrunfoC
 Compile usando o make:
 bash
